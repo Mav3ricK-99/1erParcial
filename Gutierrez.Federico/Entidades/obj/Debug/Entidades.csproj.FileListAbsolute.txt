@@ -1,0 +1,6 @@
+C:\Users\feder\source\repos\1erParcial\Gutierrez.Federico\Entidades\bin\Debug\Entidades.dll
+C:\Users\feder\source\repos\1erParcial\Gutierrez.Federico\Entidades\bin\Debug\Entidades.pdb
+C:\Users\feder\source\repos\1erParcial\Gutierrez.Federico\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\feder\source\repos\1erParcial\Gutierrez.Federico\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\feder\source\repos\1erParcial\Gutierrez.Federico\Entidades\obj\Debug\Entidades.dll
+C:\Users\feder\source\repos\1erParcial\Gutierrez.Federico\Entidades\obj\Debug\Entidades.pdb
